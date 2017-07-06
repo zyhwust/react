@@ -89,7 +89,15 @@ const menuList = [
         name: 'JavaScript',
         key: 'JavaScript',
         children: [
-
+            {
+                icon: 'line-chart',
+                name: 'Window',
+                key: 'Window',
+                children: [
+                    
+                ],
+                path: '/JavaScript/Window'
+            },
         ],
         path: '/JavaScript'
     },
